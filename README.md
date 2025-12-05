@@ -1,4 +1,4 @@
-# DeepVision-Multi-Class-Image-Classifier
+# BeastVision: Multi-Class Animal Classifier
 
 
 # Objective
